@@ -11,13 +11,21 @@ The only thing I had to purchase was an extension cord to splice into. The rest 
 I used I had as either leftovers or spare parts.
 
 1) Pencil cup holder thing. Something like this would [work](https://www.google.com/shopping/product/6635555690437852289?q=pen+holder+cup&client=ubuntu&hs=tBE&channel=fs&biw=1366&bih=639&bav=on.2,or.r_cp.&bvm=bv.139782543,d.cGw&tch=1&ech=1&psi=mpc7WPWLG8rW0gLCpYf4AQ.1480300443301.3&prds=paur:ClkAsKraXzUjDUJBnjPqCmXN4-z-pGBA_81hVL46lspSk9vve0qqA2BoH-xnhpyg-XDEhgv7CEhrT5dHQ0uzxSr7FhlDRsEOtNsW6CqPX2KZcOSqe-AR8JAF8hIZAFPVH73oYxaWuI6I0GYEICqPc6OuTFsX5w&sa=X&ved=0ahUKEwi2kufytMrQAhXDxFQKHahGCG4Q8wIIvAMwBw). $1
+
 2) [Arduino Micro](https://www.arduino.cc/en/Main/ArduinoBoardMicro). $25
+
 3) Relay. I found a [4 channel relay](http://www.progressiveautomations.com/lc-201?gclid=Cj0KEQiAperBBRDfuMf72sr56fIBEiQAPFXszex4-c4kHztQYyjidWEv7_gen1GyG5N0nIDCvykXL2kaAttN8P8HAQ) like this. $9
+
 4) 6' Extension cord to splice into. $1
+
 5) Tie wire. Duct tapes heavy duty cousin. $1
+
 6) 1 10k resister. $0.20?
+
 7) 1 switch out of a crusty old mouse. $0.10? I found an old PS2 mouse to cannibalize.
+
 8) Soup can lid
+
 
 ## Wiring
 
